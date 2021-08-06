@@ -1,1 +1,1 @@
-A simple expense manager made using Python,Flask,Chart.js
+A simple expense manager made using Python,Flask,and Chart.js
